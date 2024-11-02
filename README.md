@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage 
+> 📦 778.5 kB Used in GitHub's Storage 
  > 
 > 🏆 472 Contributions in the Year 2024
  > 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
  > 
 > 📜 14 Public Repositories 
  > 
-> 🔑 0 Private Repositories 
+> 🔑 25 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -95,5 +95,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xyvs/xyvs/main/assets/bar_graph.png)
 
 
- Last Updated on 02/11/2024 04:42:26 UTC
+ Last Updated on 02/11/2024 04:45:04 UTC
 <!--END_SECTION:waka-->
