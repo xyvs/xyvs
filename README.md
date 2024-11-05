@@ -3,11 +3,11 @@
 I like to write code
 
 - python /  js / and some other frameworks and libraries
-- my website [xyvs.io](https://xyvs.io), inspired in retro **MacOS**!
+- my website [xyvs.io](https://xyvs.io), inspired in retro MacOS!
 - i also have my own self-hosted git: [git.fran.jp.net](https://git.fran.jp.net/)
 - looking for a new job were I can build amazing stuff!
 - i love playing with servers and self-host everything i can
-- i have another github account jus because: [@franrgb](https://github.com/franrgb).
+- i have another github account just because: [@franrgb](https://github.com/franrgb).
 - if you wanna get in touch: [hello@xyvs.io](mailto:hello@xyvs.io)
 - here are some nice stats about what are the things i'm working on
 
