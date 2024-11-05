@@ -1,14 +1,15 @@
-## Hi, my name is Fran! 👋
+## I'm Fran!
 
-I'm a **Software Developer** that loves to build and discover new things! 🚀
+I like to write code
 
-- 🐍 Python / ⚡ JavaScript / 🟦 TypeScript / 💻 Bash / 🖼️ Vue / ⚛️ React / 🌐 Django / ⚙️ FastAPI
-- 🌐 Check out my website [xyvs.io](https://xyvs.io), inspired by **MacOS**!
-- 🔗 You can check out my self-hosted Git: [git.fran.jp.net](https://git.fran.jp.net/)
-- 🌱 I'm currently looking for new opportunities.
-- 🤖 I love playing with my own servers and self-host everything.
-- 🔄 I also have another GitHub account: [@franrgb](https://github.com/franrgb).
-- 📧 You can reach me at: [hello@xyvs.io](mailto:hello@xyvs.io)
+- python /  js / and some other frameworks and libraries
+- my website [xyvs.io](https://xyvs.io), inspired in retro **MacOS**!
+- i also have my own self-hosted git: [git.fran.jp.net](https://git.fran.jp.net/)
+- looking for a new job were I can build amazing stuff!
+- i love playing with servers and self-host everything i can
+- i have another github account jus because: [@franrgb](https://github.com/franrgb).
+- if you wanna get in touch: [hello@xyvs.io](mailto:hello@xyvs.io)
+- here are some nice stats about what are the things i'm working on
 
 <!--START_SECTION:waka-->
 **⭐ Awesome People!** 
